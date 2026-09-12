@@ -4,6 +4,7 @@ import campuslab.ms_campuslab_report.Dto.ReportKpisDTO;
 import campuslab.ms_campuslab_report.Dto.TopResourceDTO;
 import campuslab.ms_campuslab_report.Kafka.BookingEvent;
 import campuslab.ms_campuslab_report.Model.BookingReport;
+import campuslab.ms_campuslab_report.Repository.BookingReportRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

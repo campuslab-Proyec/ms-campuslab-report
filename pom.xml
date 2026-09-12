@@ -16,7 +16,7 @@
 	<description>Microservicio de reportería/KPIs de CampusLab - consumer Kafka</description>
 
 	<properties>
-		<java.version>25</java.version>
+		<java.version>21</java.version>
 	</properties>
 
 	<dependencies>
