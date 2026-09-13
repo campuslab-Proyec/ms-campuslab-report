@@ -1,4 +1,4 @@
-package campuslab.ms_campuslab_report;
+package com.campuslab.ms_campuslab_report;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

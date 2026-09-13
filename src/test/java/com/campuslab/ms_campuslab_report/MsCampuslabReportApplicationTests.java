@@ -1,4 +1,4 @@
-package campuslab.ms_campuslab_report;
+package com.campuslab.ms_campuslab_report;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
