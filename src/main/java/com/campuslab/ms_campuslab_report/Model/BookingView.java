@@ -1,7 +1,7 @@
 package com.campuslab.ms_campuslab_report.Model;
 
-import com.nimbusds.jose.shaded.jcip.Immutable;
 import jakarta.persistence.*;
+import org.hibernate.annotations.Immutable;
 
 import java.time.LocalDateTime;
 
